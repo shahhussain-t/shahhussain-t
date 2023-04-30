@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=996)](https://github.com/shahhussain-t/shahhussain-t)
 
 <h1 align="center">Hi 👋, I'm shahhussain</h1>
 <h3 align="center">A passionate Full stack MERN Developer</h3>
